@@ -1,0 +1,995 @@
+Term,Type
+BP,LargestOil
+BP,LargestChem
+BP,LargestComp
+GSK,Manual
+AWE,Manual
+eon,Manual
+UCB,Pharma
+P&G,Pharma
+GSK,Pharma
+DSM,LargestChem
+SCG,LargestChem
+AXA,LargestComp
+BMW,LargeEUManu
+ABB,LargeEUManu
+CRH,LargeEUManu
+SCA,LargeEUManu
+DSM,LargeEUManu
+GKN,LargeEUManu
+IBM,LargeIT
+Thales,Manual
+tata,Manual
+Arup,Manual
+edf,Manual
+shell,Manual
+electricité de france,Manual
+E.on,Manual
+Barr,Pharma
+Basi,Pharma
+Bial,Pharma
+Nike,S&P500
+ONGC,LargestOil
+BASF,LargestChem
+AT&T,LargestComp
+Exor,LargestComp
+BASF,LargeEUManu
+Sony,LargeIT
+plc,General
+plc.,General
+ltd,General
+ltd.,General
+inc,General
+inc.,General
+Alcon,Pharma
+Amgen,Pharma
+Cipla,Pharma
+Dabur,Pharma
+Eisai,Pharma
+Ipsen,Pharma
+Mylan,Pharma
+Orexo,Pharma
+Pliva,Pharma
+Tasly,Pharma
+ANSYS,S&P500
+ONEOK,S&P500
+Qorvo,S&P500
+PDVSA,LargestOil
+Pemex,LargestOil
+Engie,LargestOil
+SOCAR,LargestOil
+CEPSA,LargestOil
+SABIC,LargestChem
+Ineos,LargestChem
+Bayer,LargestChem
+Sasol,LargestChem
+Tosoh,LargestChem
+Apple,LargestComp
+Honda,LargestComp
+Total,LargestComp
+Bosch,LargeEUManu
+Bayer,LargeEUManu
+Volvo,LargeEUManu
+Nokia,LargeEUManu
+Linde,LargeEUManu
+Evraz,LargeEUManu
+Eaton,LargeEUManu
+Valeo,LargeEUManu
+Intel,LargeIT
+corp,General
+corp.,General
+Pfizer,Manual
+Airbus,Manual
+Google,Manual
+AbbVie,Pharma
+Biocon,Pharma
+Biogen,Pharma
+Biolex,Pharma
+McGuff,Pharma
+Noxxon,Pharma
+Pfizer,Pharma
+Renovo,Pharma
+Sanofi,Pharma
+Cerner,S&P500
+Incyte,S&P500
+NetApp,S&P500
+PayPal,S&P500
+ResMed,S&P500
+Zoetis,S&P500
+Lukoil,LargestOil
+Repsol,LargestOil
+DuPont,LargestChem
+Solvay,LargestChem
+Mosaic,LargestChem
+Arkema,LargestChem
+Ecolab,LargestChem
+Toyota,LargestComp
+Amazon,LargestComp
+Nestle,LargeEUManu
+Airbus,LargeEUManu
+Sanofi,LargeEUManu
+Ineos,LargeEUManu
+Danone,LargeEUManu
+Alstom,LargeEUManu
+Holcim,LargeEUManu
+Henkel,LargeEUManu
+Adidas,LargeEUManu
+Safran,LargeEUManu
+Diageo,LargeEUManu
+Rostec,LargeEUManu
+Solvay,LargeEUManu
+Kering,LargeEUManu
+Mechel,LargeEUManu
+Amazon,LargeIT
+Google,LargeIT
+Huawei,LargeIT
+QinetiQ,Manual
+Actavis,Pharma
+Advaxis,Pharma
+Anfatis,Pharma
+Baxalta,Pharma
+Bionovo,Pharma
+Biovail,Pharma
+BTG plc,Pharma
+Celgene,Pharma
+Covance,Pharma
+Crucell,Pharma
+Grifols,Pharma
+Hovione,Pharma
+Julphar,Pharma
+Patheon,Pharma
+Perrigo,Pharma
+Aon plc,S&P500
+E*Trade,S&P500
+Equinix,S&P500
+Hologic,S&P500
+HP Inc.,S&P500
+KeyCorp,S&P500
+Navient,S&P500
+Perrigo,S&P500
+UDR Inc,S&P500
+Sinopec,LargestOil
+Gazprom,LargestOil
+Rosneft,LargestOil
+Statoil,LargestOil
+Sinopec,LargestChem
+LG Chem,LargestChem
+Braskem,LargestChem
+Praxair,LargestChem
+Lanxess,LargestChem
+Walmart,LargestComp
+Daimler,LargestComp
+Foxconn,LargestComp
+Verizon,LargestComp
+Allianz,LargestComp
+Daimler,LargeEUManu
+Siemens,LargeEUManu
+Peugeot,LargeEUManu
+Renault,LargeEUManu
+Inditex,LargeEUManu
+Philips,LargeEUManu
+L'Oreal,LargeEUManu
+Lafarge,LargeEUManu
+Aurubis,LargeEUManu
+Umicore,LargeEUManu
+Sandvik,LargeEUManu
+Lanxess,LargeEUManu
+Tenaris,LargeEUManu
+Foxconn,LargeIT
+Hitachi,LargeIT
+Unilever,Manual
+Syngenta,Manual
+BG Group,Manual
+Novartis,Manual
+Actelion,Pharma
+Alkaloid,Pharma
+Alkermes,Pharma
+Allergan,Pharma
+Almirall,Pharma
+Cephalon,Pharma
+CinnaGen,Pharma
+Grindeks,Pharma
+Lundbeck,Pharma
+Medinfar,Pharma
+Menarini,Pharma
+Novartis,Pharma
+OrgaNext,Pharma
+Repligen,Pharma
+Shionogi,Pharma
+Sunovion,Pharma
+AES Corp,S&P500
+Allegion,S&P500
+Andeavor,S&P500
+AT&T Inc,S&P500
+Broadcom,S&P500
+"CA, Inc.",S&P500
+Gap Inc.,S&P500
+HCP Inc.,S&P500
+Macerich,S&P500
+Prologis,S&P500
+Total SA,LargestOil
+Petronas,LargestOil
+Centrica,LargestOil
+Huntsman,LargestChem
+Syngenta,LargestChem
+Borealis,LargestChem
+McKesson,LargestComp
+Glencore,LargestComp
+Unilever,LargeEUManu
+Novartis,LargeEUManu
+Ericsson,LargeEUManu
+Michelin,LargeEUManu
+Leonardo,LargeEUManu
+Wolseley,LargeEUManu
+Covidien,LargeEUManu
+UC Rusal,LargeEUManu
+Alphabet,LargeIT
+limited,General
+Biotecnol,Pharma
+Biovitrum,Pharma
+Jenapharm,Pharma
+Shire plc,Pharma
+Wockhardt,Pharma
+Aetna Inc,S&P500
+AFLAC Inc,S&P500
+Amgen Inc,S&P500
+Aptiv Plc,S&P500
+Ball Corp,S&P500
+BlackRock,S&P500
+Block H&R,S&P500
+CBS Corp.,S&P500
+"Coty, Inc",S&P500
+CSRA Inc.,S&P500
+CSX Corp.,S&P500
+DowDuPont,S&P500
+eBayÿInc.,S&P500
+Nordstrom,S&P500
+PPL Corp.,S&P500
+PVH Corp.,S&P500
+Regeneron,S&P500
+Visa Inc.,S&P500
+Petrobras,LargestOil
+Sonatrach,LargestOil
+Pertamina,LargestOil
+GS Caltex,LargestOil
+OMV Group,LargestOil
+PKN Orlen,LargestOil
+Ecopetrol,LargestOil
+AkzoNobel,LargestChem
+Fresenius,LargeEUManu
+Severstal,LargeEUManu
+Carlsberg,LargeEUManu
+Microsoft,LargeIT
+Panasonic,LargeIT
+Alphapharm,Pharma
+Bluepharma,Pharma
+Bosnalijek,Pharma
+Debiopharm,Pharma
+Merck KGaA,Pharma
+Octapharma,Pharma
+3M Company,S&P500
+AMETEK Inc,S&P500
+Apple Inc.,S&P500
+BorgWarner,S&P500
+Carmax Inc,S&P500
+CBRE Group,S&P500
+CMS Energy,S&P500
+CVS Health,S&P500
+Fiserv Inc,S&P500
+Ford Motor,S&P500
+Home Depot,S&P500
+JM Smucker,S&P500
+Kroger Co.,S&P500
+Mylan N.V.,S&P500
+NRG Energy,S&P500
+PG&E Corp.,S&P500
+SCANA Corp,S&P500
+Sealed Air,S&P500
+TechnipFMC,S&P500
+Unum Group,S&P500
+V.F. Corp.,S&P500
+Ventas Inc,S&P500
+Xilinx Inc,S&P500
+XL Capital,S&P500
+Xylem Inc.,S&P500
+PetroChina,LargestOil
+ExxonMobil,LargestChem
+State Grid,LargestComp
+CVS Health,LargestComp
+Japan Post,LargestComp
+Volkswagen,LargeEUManu
+Akzo Nobel,LargeEUManu
+Electrolux,LargeEUManu
+SAB Miller,LargeEUManu
+Merck KGaA,LargeEUManu
+Stora Enso,LargeEUManu
+Apple Inc.,LargeIT
+AstraZeneca,Manual
+BAE Systems,Manual
+Rolls-Royce,Manual
+Apotex Inc.,Pharma
+AstraZeneca,Pharma
+CSL Limited,Pharma
+Glatt group,Pharma
+GPC Biotech,Pharma
+Kimia Farma,Pharma
+Merck & Co.,Pharma
+Pharma Nord,Pharma
+AbbVie Inc.,S&P500
+Ameren Corp,S&P500
+Anthem Inc.,S&P500
+Arconic Inc,S&P500
+Biogen Inc.,S&P500
+CIGNA Corp.,S&P500
+DaVitaÿInc.,S&P500
+Deere & Co.,S&P500
+Dollar Tree,S&P500
+Dover Corp.,S&P500
+Duke Energy,S&P500
+EcolabÿInc.,S&P500
+F5 Networks,S&P500
+Fastenal Co,S&P500
+Fluor Corp.,S&P500
+Garmin Ltd.,S&P500
+Gartner Inc,S&P500
+Hasbro Inc.,S&P500
+Humana Inc.,S&P500
+Intel Corp.,S&P500
+IntuitÿInc.,S&P500
+Kellogg Co.,S&P500
+Loews Corp.,S&P500
+Lowe's Cos.,S&P500
+Macy's Inc.,S&P500
+Masco Corp.,S&P500
+Mattel Inc.,S&P500
+Merck & Co.,S&P500
+Nucor Corp.,S&P500
+PACCAR Inc.,S&P500
+PerkinElmer,S&P500
+Pfizer Inc.,S&P500
+Phillips 66,S&P500
+Ross Stores,S&P500
+Sysco Corp.,S&P500
+TripAdvisor,S&P500
+Tyson Foods,S&P500
+Viacom Inc.,S&P500
+Wells Fargo,S&P500
+Xerox Corp.,S&P500
+Exxon Mobil,LargestOil
+JX Holdings,LargestOil
+Air Liquide,LargestChem
+Asahi Kasei,LargestChem
+Exxon Mobil,LargestComp
+Continental,LargeEUManu
+AstraZeneca,LargeEUManu
+BAE Systems,LargeEUManu
+Air Liquide,LargeEUManu
+Voestalpine,LargeEUManu
+UPM Kymmene,LargeEUManu
+Atlas Copco,LargeEUManu
+Norsk Hydro,LargeEUManu
+Saudi Aramco,Manual
+Network Rail,Manual
+Axcan Pharma,Pharma
+Hetero Drugs,Pharma
+Mayne Pharma,Pharma
+Novo Nordisk,Pharma
+Orion Pharma,Pharma
+Pharmacosmos,Pharma
+Solvay Group,Pharma
+Assurant Inc,S&P500
+Autodesk Inc,S&P500
+AutoZone Inc,S&P500
+Corning Inc.,S&P500
+Cummins Inc.,S&P500
+D. R. Horton,S&P500
+Dish Network,S&P500
+Edison Int'l,S&P500
+Equifax Inc.,S&P500
+Exelon Corp.,S&P500
+Expedia Inc.,S&P500
+FLIR Systems,S&P500
+Fortive Corp,S&P500
+HCA Holdings,S&P500
+Henry Schein,S&P500
+Illumina Inc,S&P500
+Invesco Ltd.,S&P500
+Kimco Realty,S&P500
+Kohl'sÿCorp.,S&P500
+Lam Research,S&P500
+Lennar Corp.,S&P500
+MetLife Inc.,S&P500
+Monsanto Co.,S&P500
+Moody's Corp,S&P500
+"Nasdaq, Inc.",S&P500
+Netflix Inc.,S&P500
+Oracle Corp.,S&P500
+Paychex Inc.,S&P500
+Pentair Ltd.,S&P500
+PepsiCo Inc.,S&P500
+Praxair Inc.,S&P500
+Raytheon Co.,S&P500
+Red Hat Inc.,S&P500
+Snap-On Inc.,S&P500
+Southern Co.,S&P500
+Target Corp.,S&P500
+Textron Inc.,S&P500
+U.S. Bancorp,S&P500
+Saudi Aramco,LargestOil
+Schlumberger,LargestOil
+Dow Chemical,LargestChem
+Saint-Gobain,LargeEUManu
+ThyssenKrupp,LargeEUManu
+Thales Group,LargeEUManu
+Novo Nordisk,LargeEUManu
+corporation,General
+National Grid,Manual
+Adcock Ingram,Pharma
+ACG Worldwide,Pharma
+Ajanta Pharma,Pharma
+Bausch & Lomb,Pharma
+Help Remedies,Pharma
+Lupin Limited,Pharma
+Pharma Medica,Pharma
+Pharmascience,Pharma
+Purdue Pharma,Pharma
+Accenture plc,S&P500
+"Allergan, Plc",S&P500
+Allstate Corp,S&P500
+Amphenol Corp,S&P500
+Campbell Soup,S&P500
+CBOE Holdings,S&P500
+Celgene Corp.,S&P500
+Chevron Corp.,S&P500
+Chubb Limited,S&P500
+Cisco Systems,S&P500
+Comcast Corp.,S&P500
+Comerica Inc.,S&P500
+Danaher Corp.,S&P500
+Entergy Corp.,S&P500
+EOG Resources,S&P500
+General Mills,S&P500
+Genuine Parts,S&P500
+Kinder Morgan,S&P500
+L Brands Inc.,S&P500
+Medtronic plc,S&P500
+Newell Brands,S&P500
+NiSource Inc.,S&P500
+Omnicom Group,S&P500
+QUALCOMM Inc.,S&P500
+Sempra Energy,S&P500
+Stryker Corp.,S&P500
+Synopsys Inc.,S&P500
+Tiffany & Co.,S&P500
+Union Pacific,S&P500
+Valero Energy,S&P500
+Verisign Inc.,S&P500
+Williams Cos.,S&P500
+Zions Bancorp,S&P500
+Valero Energy,LargestOil
+Suncor Energy,LargestOil
+SK Innovation,LargestChem
+Sinopec Group,LargestComp
+United Health,LargestComp
+ArcelorMittal,LargeEUManu
+Salzgitter AG,LargeEUManu
+Pernod Ricard,LargeEUManu
+Cisco Systems,LargeIT
+Alliance Boots,Pharma
+Daiichi Sankyo,Pharma
+Fresenius Kabi,Pharma
+General Pharma,Pharma
+Horizon Pharma,Pharma
+Albemarle Corp,S&P500
+Amazon.com Inc,S&P500
+Boeing Company,S&P500
+Carnival Corp.,S&P500
+Cimarex Energy,S&P500
+Citigroup Inc.,S&P500
+Citrix Systems,S&P500
+CME Group Inc.,S&P500
+Conagra Brands,S&P500
+ConocoPhillips,S&P500
+Dollar General,S&P500
+DTE EnergyÿCo.,S&P500
+DXC Technology,S&P500
+"Facebook, Inc.",S&P500
+General Motors,S&P500
+Kimberly-Clark,S&P500
+Kraft HeinzÿCo,S&P500
+LyondellBasell,S&P500
+M&T Bank Corp.,S&P500
+McKesson Corp.,S&P500
+Mettler Toledo,S&P500
+Morgan Stanley,S&P500
+NextEra Energy,S&P500
+PPG Industries,S&P500
+Public Storage,S&P500
+Salesforce.com,S&P500
+Stericycle Inc,S&P500
+SunTrust Banks,S&P500
+Symantec Corp.,S&P500
+"Tapestry, Inc.",S&P500
+Welltower Inc.,S&P500
+Idemitsu Kosan,LargestOil
+LyondellBasell,LargestChem
+PPG Industries,LargestChem
+Lotte Chemical,LargestChem
+General Motors,LargestComp
+LyondellBasell,LargeEUManu
+Christian Dior,LargeEUManu
+Alcatel-Lucent,LargeEUManu
+Ingersoll-Rand,LargeEUManu
+Norilsk Nickel,LargeEUManu
+Prysmian Group,LargeEUManu
+GlaxoSmithKline,Manual
+Rolls-Royce plc,Manual
+Astellas Pharma,Pharma
+Clovis Oncology,Pharma
+Diabetology Ltd,Pharma
+Gilead Sciences,Pharma
+GlaxoSmithKline,Pharma
+Hexal Australia,Pharma
+Sinopharm Group,Pharma
+Strides Arcolab,Pharma
+A.O. SmithÿCorp,S&P500
+Cabot Oil & Gas,S&P500
+CenturyLink Inc,S&P500
+Church & Dwight,S&P500
+Dentsply Sirona,S&P500
+Dominion Energy,S&P500
+Electronic Arts,S&P500
+EQT Corporation,S&P500
+Express Scripts,S&P500
+FMC Corporation,S&P500
+Foot Locker Inc,S&P500
+Gilead Sciences,S&P500
+Halliburton Co.,S&P500
+Hanesbrands Inc,S&P500
+Harley-Davidson,S&P500
+IHS Markit Ltd.,S&P500
+Leggett & Platt,S&P500
+LKQ Corporation,S&P500
+Marriott Int'l.,S&P500
+Mastercard Inc.,S&P500
+McCormick & Co.,S&P500
+Microsoft Corp.,S&P500
+Parker-Hannifin,S&P500
+Signet Jewelers,S&P500
+SL Green Realty,S&P500
+Starbucks Corp.,S&P500
+Torchmark Corp.,S&P500
+TransDigm Group,S&P500
+Wal-Mart Stores,S&P500
+Western Digital,S&P500
+Whirlpool Corp.,S&P500
+Xcel Energy Inc,S&P500
+Yum! Brands Inc,S&P500
+Conoco Phillips,LargestOil
+The Linde Group,LargestChem
+Hanwha Chemical,LargestChem
+Johnson Matthey,LargestChem
+Cardinal Health,LargestComp
+GlaxoSmithKline,LargeEUManu
+Rolls-Royce plc,LargeEUManu
+Johnson Matthey,LargeEUManu
+TE Connectivity,LargeEUManu
+Altana Pharma AG,Pharma
+Aspen Pharmacare,Pharma
+Aurobindo Pharma,Pharma
+Melior Discovery,Pharma
+Procter & Gamble,Pharma
+Rubicon Research,Pharma
+Align Technology,S&P500
+Altria Group Inc,S&P500
+BB&T Corporation,S&P500
+Becton Dickinson,S&P500
+Caterpillar Inc.,S&P500
+Concho Resources,S&P500
+Duke RealtyÿCorp,S&P500
+Eastman Chemical,S&P500
+FirstEnergy Corp,S&P500
+General Dynamics,S&P500
+General Electric,S&P500
+Hess Corporation,S&P500
+Juniper Networks,S&P500
+KLA-Tencor Corp.,S&P500
+Lincoln National,S&P500
+Marsh & McLennan,S&P500
+McDonald's Corp.,S&P500
+Monster Beverage,S&P500
+Nielsen Holdings,S&P500
+Noble Energy Inc,S&P500
+Procter & Gamble,S&P500
+Pulte Homes Inc.,S&P500
+Rockwell Collins,S&P500
+Sherwin-Williams,S&P500
+"S&P Global, Inc.",S&P500
+Time Warner Inc.,S&P500
+Verisk Analytics,S&P500
+Vulcan Materials,S&P500
+Western Union Co,S&P500
+WestRock Company,S&P500
+Wynn ResortsÿLtd,S&P500
+Bharat Petroleum,LargestOil
+Motor Oil Hellas,LargestOil
+Formosa Plastics,LargestChem
+Mitsui Chemicals,LargestChem
+Toray Industries,LargestChem
+Eastman Chemical,LargestChem
+Volkswagen Group,LargestComp
+General Electric,LargestComp
+Heraeus Holding*,LargeEUManu
+Heineken Holding,LargeEUManu
+Jaguar Land Rover,Manual
+Avax Technologies,Pharma
+Cadila Healthcare,Pharma
+CoCo Therapeutics,Pharma
+Hoffmann?La Roche,Pharma
+Ipca Laboratories,Pharma
+Johnson & Johnson,Pharma
+Juno Therapeutics,Pharma
+Kyowa Hakko Kirin,Pharma
+Mitsubishi Pharma,Pharma
+Reckitt Benckiser,Pharma
+Yuhan Corporation,Pharma
+Acuity Brands Inc,S&P500
+Adobe Systems Inc,S&P500
+Best Buy Co. Inc.,S&P500
+Boston Properties,S&P500
+Boston Scientific,S&P500
+Chesapeake Energy,S&P500
+Colgate-Palmolive,S&P500
+Eaton Corporation,S&P500
+Estee Lauder Cos.,S&P500
+Eversource Energy,S&P500
+Exxon Mobil Corp.,S&P500
+FedEx Corporation,S&P500
+Helmerich & Payne,S&P500
+Interpublic Group,S&P500
+Johnson & Johnson,S&P500
+Lilly (Eli) & Co.,S&P500
+Micron Technology,S&P500
+Mohawk Industries,S&P500
+Priceline.com Inc,S&P500
+Progressive Corp.,S&P500
+Quest Diagnostics,S&P500
+Schlumberger Ltd.,S&P500
+Texas Instruments,S&P500
+Wyndham Worldwide,S&P500
+Royal Dutch Shell,LargestOil
+Royal Dutch Shell,LargestChem
+Sumitomo Chemical,LargestChem
+Evonik Industries,LargestChem
+Indorama Ventures,LargestChem
+Royal Dutch Shell,LargestComp
+AmerisourceBergen,LargestComp
+Hoffmann-La Roche,LargeEUManu
+Heidelberg Cement,LargeEUManu
+Reckitt Benckiser,LargeEUManu
+Delphi Automotive,LargeEUManu
+Novolipetsk Steel,LargeEUManu
+Dell Technologies,LargeIT
+Microsoft Research,Manual
+3M Pharmaceuticals,Manual
+Panacea Biotec Ltd,Pharma
+Par Pharmaceutical,Pharma
+Pierre Fabre Group,Pharma
+Piramal Healthcare,Pharma
+STADA Arzneimittel,Pharma
+Sun Pharmaceutical,Pharma
+Advance Auto Parts,S&P500
+Apache Corporation,S&P500
+Berkshire Hathaway,S&P500
+Brown-Forman Corp.,S&P500
+CenterPoint Energy,S&P500
+Cintas Corporation,S&P500
+The Clorox Company,S&P500
+Darden Restaurants,S&P500
+Devon EnergyÿCorp.,S&P500
+Equity Residential,S&P500
+Franklin Resources,S&P500
+Harris Corporation,S&P500
+Hormel Foods Corp.,S&P500
+IDEXX Laboratories,S&P500
+Ingersoll-Rand PLC,S&P500
+Marathon Oil Corp.,S&P500
+Marathon Petroleum,S&P500
+The Mosaic Company,S&P500
+News Corp. Class A,S&P500
+News Corp. Class B,S&P500
+Nvidia Corporation,S&P500
+Roper Technologies,S&P500
+SBA Communications,S&P500
+Seagate Technology,S&P500
+Skyworks Solutions,S&P500
+Southwest Airlines,S&P500
+State Street Corp.,S&P500
+TJX Companies Inc.,S&P500
+Waters Corporation,S&P500
+Weyerhaeuser Corp.,S&P500
+Marathon Petroleum,LargestOil
+Hellenic Petroleum,LargestOil
+Yara International,LargestChem
+Shin-Etsu Chemical,LargestChem
+Berkshire Hathaway,LargestComp
+Ford Motor Company,LargestComp
+Schneider Electric,LargeEUManu
+Seagate Technology,LargeEUManu
+Yara International,LargeEUManu
+Tyco International,LargeEUManu
+varun technologies,LargeIT
+Abbott Laboratories,Pharma
+Acorda Therapeutics,Pharma
+Ego Pharmaceuticals,Pharma
+Gedeon Richter Ltd.,Pharma
+G.F. Harvey Company,Pharma
+USV Private Limited,Pharma
+Abbott Laboratories,S&P500
+Activision Blizzard,S&P500
+Alliant Energy Corp,S&P500
+American Express Co,S&P500
+Avery Dennison Corp,S&P500
+Centene Corporation,S&P500
+Consolidated Edison,S&P500
+Envision Healthcare,S&P500
+Extra Space Storage,S&P500
+Fifth Third Bancorp,S&P500
+Goldman Sachs Group,S&P500
+The Hershey Company,S&P500
+Illinois Tool Works,S&P500
+International Paper,S&P500
+IQVIAÿHoldings Inc.,S&P500
+O'Reilly Automotive,S&P500
+Patterson Companies,S&P500
+Synchrony Financial,S&P500
+T. Rowe Price Group,S&P500
+United Technologies,S&P500
+Chevron Corporation,LargestOil
+Reliance Industries,LargestOil
+Enterprise Products,LargestOil
+Hindustan Petroleum,LargestOil
+Mitsubishi Chemical,LargestChem
+Reliance Industries,LargestChem
+PTT Global Chemical,LargestChem
+Samsung Electronics,LargestComp
+Samsung Electronics,LargeIT
+Lubrizol Corporation,Manual
+Baxter International,Pharma
+Boehringer-Ingelheim,Pharma
+Bristol-Myers Squibb,Pharma
+Concordia Healthcare,Pharma
+Endo Pharmaceuticals,Pharma
+MannKind Corporation,Pharma
+Ranbaxy Laboratories,Pharma
+Servier Laboratories,Pharma
+Teva Pharmaceuticals,Pharma
+Taro Pharmaceuticals,Pharma
+Unichem Laboratories,Pharma
+Alaska Air Group Inc,S&P500
+Alphabet Inc Class A,S&P500
+Alphabet Inc Class C,S&P500
+Ameriprise Financial,S&P500
+"Analog Devices, Inc.",S&P500
+Bank of America Corp,S&P500
+Bristol-Myers Squibb,S&P500
+Cardinal HealthÿInc.,S&P500
+Cincinnati Financial,S&P500
+Constellation Brands,S&P500
+The Cooper Companies,S&P500
+Delta Air LinesÿInc.,S&P500
+Edwards Lifesciences,S&P500
+Global Payments Inc.,S&P500
+Grainger (W.W.) Inc.,S&P500
+Honeywell Int'l Inc.,S&P500
+JPMorgan Chase & Co.,S&P500
+Kansas City Southern,S&P500
+Microchip Technology,S&P500
+Northern Trust Corp.,S&P500
+Occidental Petroleum,S&P500
+Prudential Financial,S&P500
+Quanta Services Inc.,S&P500
+TE Connectivity Ltd.,S&P500
+Under ArmourÿClass A,S&P500
+Under ArmourÿClass C,S&P500
+"United Rentals, Inc.",S&P500
+Vornado Realty Trust,S&P500
+Wec Energy Group Inc,S&P500
+Willis Towers Watson,S&P500
+Anheuser-Busch InBev,LargeEUManu
+Rolls-Royce Group plc,Manual
+Elder Pharmaceuticals,Pharma
+Eli Lilly and Company,Pharma
+Emergent BioSolutions,Pharma
+Galderma Laboratories,Pharma
+Hikma Pharmaceuticals,Pharma
+Ionis Pharmaceuticals,Pharma
+Salix Pharmaceuticals,Pharma
+Sigma Pharmaceuticals,Pharma
+Zandu Pharmaceuticals,Pharma
+Alliance Data Systems,S&P500
+American Tower Corp A,S&P500
+Applied Materials Inc,S&P500
+Capital One Financial,S&P500
+Everest ReÿGroup Ltd.,S&P500
+Flowserve Corporation,S&P500
+Freeport-McMoRan Inc.,S&P500
+Host Hotels & Resorts,S&P500
+Huntington Bancshares,S&P500
+Lockheed Martin Corp.,S&P500
+Michael Kors Holdings,S&P500
+Norwegian Cruise Line,S&P500
+Pinnacle West Capital,S&P500
+Range Resources Corp.,S&P500
+Republic Services Inc,S&P500
+Total System Services,S&P500
+United Parcel Service,S&P500
+Waste Management Inc.,S&P500
+Acadia Pharmaceuticals,Pharma
+Emcure Pharmaceuticals,Pharma
+Fresenius Medical Care,Pharma
+Interphil Laboratories,Pharma
+Square Pharmaceuticals,Pharma
+Turing Pharmaceuticals,Pharma
+Vertex Pharmaceuticals,Pharma
+AmerisourceBergen Corp,S&P500
+Cadence Design Systems,S&P500
+Charter Communications,S&P500
+Chipotle Mexican Grill,S&P500
+Costco Wholesale Corp.,S&P500
+Goodyear Tire & Rubber,S&P500
+Mid-America Apartments,S&P500
+Mondelez International,S&P500
+Norfolk Southern Corp.,S&P500
+Northrop Grumman Corp.,S&P500
+PNC Financial Services,S&P500
+Stanley Black & Decker,S&P500
+Tractor Supply Company,S&P500
+Varian Medical Systems,S&P500
+Verizon Communications,S&P500
+Zimmer Biomet Holdings,S&P500
+Indian Oil Corporation,LargestOil
+Imperial Tobacco Group,LargeEUManu
+Alexion Pharmaceuticals,Pharma
+BioMarin Pharmaceutical,Pharma
+Dawakhana Shifaul Amraz,Pharma
+Ferring Pharmaceuticals,Pharma
+Incepta Pharmaceuticals,Pharma
+NovaBay Pharmaceuticals,Pharma
+Torrent Pharmaceuticals,Pharma
+Veloxis Pharmaceuticals,Pharma
+Wallace Pharmaceuticals,Pharma
+Akamai Technologies Inc,S&P500
+Alexion Pharmaceuticals,S&P500
+American Airlines Group,S&P500
+American Electric Power,S&P500
+Anadarko Petroleum Corp,S&P500
+Coca-Cola Companyÿ(The),S&P500
+Dr Pepper Snapple Group,S&P500
+Intuitive Surgical Inc.,S&P500
+Leucadia National Corp.,S&P500
+Motorola Solutions Inc.,S&P500
+Newfield Exploration Co,S&P500
+Polo Ralph Lauren Corp.,S&P500
+Regions Financial Corp.,S&P500
+The Walt Disney Company,S&P500
+China Construction Bank,LargestComp
+Bayer Schering Pharma AG,Pharma
+Dr. Reddy's Laboratories,Pharma
+Glenmark Pharmaceuticals,Pharma
+Intas Biopharmaceuticals,Pharma
+Serum Institute of India,Pharma
+Agilent Technologies Inc,S&P500
+C. H. Robinson Worldwide,S&P500
+Citizens Financial Group,S&P500
+Digital RealtyÿTrust Inc,S&P500
+Emerson Electric Company,S&P500
+Expeditors International,S&P500
+Jacobs Engineering Group,S&P500
+Rockwell Automation Inc.,S&P500
+Simon Property Group Inc,S&P500
+Thermo Fisher Scientific,S&P500
+United Health Group Inc.,S&P500
+Walgreens Boots Alliance,S&P500
+Air Products & Chemicals,LargestChem
+China National Petroleum,LargestComp
+British American Tobacco,LargeEUManu
+Associated British Foods,LargeEUManu
+Avella Specialty Pharmacy,Pharma
+Canadian Plasma Resources,Pharma
+"The Cathay Drug Co., Inc.",Pharma
+Chugai Pharmaceutical Co.,Pharma
+Dainippon Sumitomo Pharma,Pharma
+Diffusion Pharmaceuticals,Pharma
+F. Hoffmann?La Roche Ltd.,Pharma
+Otsuka Pharmaceutical Co.,Pharma
+Peregrine Pharmaceuticals,Pharma
+Regeneron Pharmaceuticals,Pharma
+Takeda Pharmaceutical Co.,Pharma
+Archer-Daniels-Midland Co,S&P500
+Arthur J. Gallagher & Co.,S&P500
+Automatic Data Processing,S&P500
+Baxter International Inc.,S&P500
+Brighthouse Financial Inc,S&P500
+Intercontinental Exchange,S&P500
+Intl Flavors & Fragrances,S&P500
+Martin Marietta Materials,S&P500
+MGM Resorts International,S&P500
+People's United Financial,S&P500
+Pioneer Natural Resources,S&P500
+Principal Financial Group,S&P500
+Realty Income Corporation,S&P500
+Robert Half International,S&P500
+Chevron Phillips Chemical,LargestChem
+Chiesi Farmaceutici S.p.A.,Pharma
+Eskayef Bangladesh Limited,Pharma
+"Vion Pharmaceuticals, Inc.",Pharma
+Advanced Micro Devices Inc,S&P500
+"Baker Hughes, a GE Company",S&P500
+CF Industries Holdings Inc,S&P500
+Charles Schwab Corporation,S&P500
+Discovery Communications-A,S&P500
+Discovery Communications-C,S&P500
+"Essex Property Trust, Inc.",S&P500
+Hartford Financial Svc.Gp.,S&P500
+Hewlett Packard Enterprise,S&P500
+Iron Mountain Incorporated,S&P500
+Newmont Mining Corporation,S&P500
+Vertex Pharmaceuticals Inc,S&P500
+Hewlett Packard Enterprise,LargeIT
+Alembic Pharmaceuticals Ltd,Pharma
+Bargn Farmaceutici Phils Co,Pharma
+Beximco Pharmaceuticals Ltd,Pharma
+Ortho-McNeil Pharmaceutical,Pharma
+"AvalonBay Communities, Inc.",S&P500
+Discover Financial Services,S&P500
+L-3 Communications Holdings,S&P500
+National Oilwell Varco Inc.,S&P500
+Philip Morris International,S&P500
+Regency Centers Corporation,S&P500
+Royal Caribbean Cruises Ltd,S&P500
+United Continental Holdings,S&P500
+China National Offshore Oil,LargestOil
+Advanced Chemical Industries,Pharma
+Fabre-Kramer Pharmaceuticals,Pharma
+Mallinckrodt Pharmaceuticals,Pharma
+Air Products & Chemicals Inc,S&P500
+Molson Coors Brewing Company,S&P500
+Public Serv. Enterprise Inc.,S&P500
+Raymond James Financial Inc.,S&P500
+The Travelers Companies Inc.,S&P500
+Kuwait Petroleum Corporation,LargestOil
+National Iranian Oil Company,LargestOil
+Institute for OneWorld Health,Pharma
+Affiliated Managers Group Inc,S&P500
+Hilton WorldwideÿHoldings Inc,S&P500
+Huntington Ingalls Industries,S&P500
+J. B. Hunt Transport Services,S&P500
+Janssen PharmaceuticaÿProducts,Pharma
+Cognizant Technology Solutions,S&P500
+Fortune Brands Home & Security,S&P500
+General Growth Properties Inc.,S&P500
+Johnson Controls International,S&P500
+China Construction Engineering,LargestComp
+Federal Realty Investment Trust,S&P500
+International Business Machines,S&P500
+"Universal Health Services, Inc.",S&P500
+American Water Works Company Inc,S&P500
+Crown Castle International Corp.,S&P500
+Packaging Corporation of America,S&P500
+Twenty-First Century Fox Class A,S&P500
+Twenty-First Century Fox Class B,S&P500
+Apartment Investment & Management,S&P500
+The Bank of New York Mellon Corp.,S&P500
+Scripps Networks Interactive Inc.,S&P500
+Pharmaceutical Product Development,Pharma
+"American International Group, Inc.",S&P500
+Alexandria Real Estate EquitiesÿInc,S&P500
+Laboratory Corp. of America Holding,S&P500
+JN-International Medical Corporation,Pharma
+Ulta Salon Cosmetics & Fragrance Inc,S&P500
+China National Petroleum Corporation,LargestOil
+Valeant Pharmaceuticals International,Pharma
+Industrial & Commercial Bank of China,LargestComp
+Fidelity National Information Services,S&P500
+Gulf Pharmaceutical Industries (Julphar),Pharma

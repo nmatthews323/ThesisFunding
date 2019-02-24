@@ -1,0 +1,472 @@
+Term,Type
+Attorney General's Office,GovDep
+Cabinet Office,GovDep
+"Department for Business, Energy and Industrial Strategy",GovDep
+"Department for Digital, Culture, Media and Sport",GovDep
+Department for Education,GovDep
+"Department for Environment, Food and Rural Affairs",GovDep
+Department for Exiting the European Union,GovDep
+Department for International Development,GovDep
+Department for International Trade,GovDep
+Department for Transport,GovDep
+Department for Work and Pensions,GovDep
+Department of Health and Social Care,GovDep
+Foreign and Commonwealth Office,GovDep
+Her Majesty's Treasury,GovDep
+Home Office,GovDep
+Ministry of Defence,GovDep
+"Ministry of Housing, Communities and Local Government",GovDep
+Ministry of Justice,GovDep
+Northern Ireland Office,GovDep
+Office of the Advocate General for Scotland,GovDep
+Office of the Leader of the House of Commons,GovDep
+Office of the Leader of the House of Lords,GovDep
+Scotland Office,GovDep
+UK Export Finance,GovDep
+Wales Office,GovDep
+Charity Commission for England and Wales,GovDep
+Competition and Markets Authority,GovDep
+Crown Prosecution Service,GovDep
+Food Standards Agency,GovDep
+Forestry Commission,GovDep
+Government Actuary's Department,GovDep
+Government Legal Department,GovDep
+Her Majesty's Land Registry,GovDep
+HM Land Registry,GovDep
+Her Majesty's Revenue and Customs,GovDep
+HM Revenue and Customs,GovDep
+HMRC,GovDep
+National Crime Agency,GovDep
+National Savings and Investments,GovDep
+"Office for Standards in Education, Children's Services and Skills",GovDep
+Office of Gas and Electricity Markets,GovDep
+Office of Qualifications and Examinations Regulation,GovDep
+Office of Rail and Road,GovDep
+Ordnance Survey,GovDep
+Serious Fraud Office,GovDep
+Supreme Court of the United Kingdom,GovDep
+The National Archives,GovDep
+UK Statistics Authority,GovDep
+UK Trade & Investment,GovDep
+Water Services Regulation Authority,GovDep
+Academy for Social Justice Commissioning,GovAgency
+Accelerated Access Review,GovAgency
+Administration of Radioactive Substances Advisory Committee,GovAgency
+Advisory Committee on Animal Feedingstuffs,GovAgency
+Advisory Committee on Business Appointments,GovAgency
+Advisory Committee on Clinical Excellence Awards,GovAgency
+Advisory Committee on Conscientious Objectors,GovAgency
+Advisory Committee on Novel Foods and Processes,GovAgency
+Advisory Committee on Releases to the Environment,GovAgency
+Advisory Committee on the Microbiological Safety of Food,GovAgency
+Advisory Committees on Justices of the Peace,GovAgency
+Advisory Council on the Misuse of Drugs,GovAgency
+Advisory Group on Military Medicine,GovAgency
+"Advisory, Conciliation and Arbitration Service",GovAgency
+Agriculture and Horticulture Development Board,GovAgency
+Air Accidents Investigation Branch,GovAgency
+Animal and Plant Health Agency,GovAgency
+Animals in Science Committee,GovAgency
+Architects Registration Board,GovAgency
+Armed Forces' Pay Review Body,GovAgency
+Arts and Humanities Research Council,GovAgency
+Arts Council England,GovAgency
+BBC,GovAgency
+BBC World Service,GovAgency
+Big Lottery Fund,GovAgency
+Biometrics and Forensics Ethics Group,GovAgency
+Biometrics Commissioner,GovAgency
+Biotechnology and Biological Sciences Research Council,GovAgency
+Board of Trustees of the Royal Botanic Gardens Kew,GovAgency
+Boundary Commission for England,GovAgency
+Boundary Commission for Northern Ireland,GovAgency
+Boundary Commission for Scotland,GovAgency
+Boundary Commission for Wales,GovAgency
+British Business Bank,GovAgency
+British Council,GovAgency
+British Film Institute,GovAgency
+British Hallmarking Council,GovAgency
+British Library,GovAgency
+British Museum,GovAgency
+British Pharmacopoeia Commission,GovAgency
+British Transport Police Authority,GovAgency
+Broads Authority,GovAgency
+Building Regulations Advisory Committee,GovAgency
+Cafcass,GovAgency
+Care Quality Commission,GovAgency
+Central Advisory Committee on Compensation,GovAgency
+Central Arbitration Committee,GovAgency
+"Centre for Environment, Fisheries and Aquaculture Science",GovAgency
+Certification Officer,GovAgency
+Channel 4,GovAgency
+Chevening Scholarship Programme,GovAgency
+Civil Aviation Authority,GovAgency
+Civil Justice Council,GovAgency
+Civil Nuclear Police Authority,GovAgency
+Civil Procedure Rule Committee,GovAgency
+Civil Service,GovAgency
+Civil Service Commission,GovAgency
+Coal Authority,GovAgency
+Commission on Human Medicines,GovAgency
+Commissioner for Public Appointments,GovAgency
+Committee on Climate Change,GovAgency
+Committee on Fuel Poverty,GovAgency
+"Committee on Mutagenicity of Chemicals in Food, Consumer Products and the Environment",GovAgency
+"Committee on Mutagenicity of Chemicals in Food, Consumer Products and the Environment",GovAgency
+Committee on Radioactive Waste Management,GovAgency
+Committee on Standards in Public Life,GovAgency
+"Committee on Toxicity of Chemicals in Food, Consumer Products and the Environment",GovAgency
+Commonwealth Scholarship Commission in the UK,GovAgency
+Companies House,GovAgency
+Competition and Markets Authority,GovAgency
+Competition and Markets Authority,GovAgency
+Competition Appeal Tribunal,GovAgency
+Competition Service,GovAgency
+Construction Industry Training Board,GovAgency
+Consumer Council for Water,GovAgency
+Copyright Tribunal,GovAgency
+Council for Science and Technology,GovAgency
+Covent Garden Market Authority,GovAgency
+Criminal Cases Review Commission,GovAgency
+Criminal Injuries Compensation Authority,GovAgency
+Criminal Procedure Rule Committee,GovAgency
+Crown Commercial Service,GovAgency
+Crown Prosecution Service,GovAgency
+Dartmoor National Park Authority,GovAgency
+Defence Academy of the United Kingdom,GovAgency
+Defence and Security Media Advisory Committee,GovAgency
+Defence Electronics and Components Agency,GovAgency
+Defence Nuclear Safety Committee,GovAgency
+Defence Science and Technology Laboratory,GovAgency
+DSTL,GovAgency
+Defence Sixth Form College,GovAgency
+Directly Operated Railways Limited,GovAgency
+Disabled People?s Employment Corporation,GovAgency
+Disabled Persons Transport Advisory Committee,GovAgency
+Disclosure and Barring Service,GovAgency
+Drinking Water Inspectorate,GovAgency
+Driver and Vehicle Licensing Agency,GovAgency
+Driver and Vehicle Standards Agency,GovAgency
+Ebbsfleet Development Corporation,GovAgency
+Economic and Social Research Council,GovAgency
+Education and Skills Funding Agency,GovAgency
+Engineering and Physical Sciences Research Council,GovAgency
+Engineering Construction Industry Training Board,GovAgency
+English Institute of Sport,GovAgency
+Environment Agency,GovAgency
+Equality and Human Rights Commission,GovAgency
+Exmoor National Park Authority,GovAgency
+Export Guarantees Advisory Council,GovAgency
+Family Justice Council,GovAgency
+Family Procedure Rule Committee,GovAgency
+FCO Services,GovAgency
+Financial Conduct Authority,GovAgency
+Fleet Air Arm Museum,GovAgency
+Food Standards Agency,GovAgency
+Forensic Science Regulator,GovAgency
+Forest Enterprise (England),GovAgency
+Forest Research,GovAgency
+Forestry Commission,GovAgency
+Gambling Commission,GovAgency
+Gangmasters Licensing Authority,GovAgency
+Geffrye Museum,GovAgency
+General Advisory Committee on Science,GovAgency
+Government Actuary's Department,GovAgency
+Government Communications Headquarters,GovAgency
+Government Equalities Office,GovAgency
+Government Estates Management,GovAgency
+Government Internal Audit Agency,GovAgency
+Government Legal Department,GovAgency
+Government Office for Science,GovAgency
+Great Britain-China Centre,GovAgency
+Groceries Code Adjudicator,GovAgency
+Health and Safety Executive,GovAgency
+Health Education England,GovAgency
+Health Research Authority,GovAgency
+Heritage Lottery Fund,GovAgency
+High Speed Two (HS2) Limited,GovAgency
+Higher Education Funding Council for England,GovAgency
+HEFCE,GovAgency
+Highways England,GovAgency
+Historic England,GovAgency
+Historic Royal Palaces,GovAgency
+HM Courts & Tribunals Service,GovAgency
+HM Crown Prosecution Service Inspectorate,GovAgency
+HM Inspectorate of Constabulary,GovAgency
+HM Inspectorate of Prisons,GovAgency
+HM Inspectorate of Probation,GovAgency
+HM Land Registry,GovAgency
+HM Land Registry,GovAgency
+HM Prison Service,GovAgency
+HM Revenue & Customs,GovAgency
+Homes and Communities Agency,GovAgency
+Horniman Public Museum and Public Park Trust,GovAgency
+Horserace Betting Levy Board,GovAgency
+House of Lords Appointments Commission,GovAgency
+Housing Ombudsman,GovAgency
+Human Fertilisation and Embryology Authority,GovAgency
+Human Tissue Authority,GovAgency
+Imperial War Museum,GovAgency
+Independent Advisory Panel on Deaths in Custody,GovAgency
+Independent Agricultural Appeals Panel,GovAgency
+Independent Anti-slavery Commissioner,GovAgency
+Independent Case Examiner,GovAgency
+Independent Chief Inspector of Borders and Immigration,GovAgency
+Independent Commission for Aid Impact,GovAgency
+Independent Complaints Reviewer,GovAgency
+Independent Family Returns Panel,GovAgency
+Independent Medical Expert Group,GovAgency
+Independent Monitoring Boards,GovAgency
+Independent Police Complaints Commission,GovAgency
+Independent Reconfiguration Panel,GovAgency
+Independent Reviewer of Terrorism Legislation,GovAgency
+Industrial Development Advisory Board,GovAgency
+Industrial Injuries Advisory Council,GovAgency
+Information Commissioner's Office,GovAgency
+Innovate UK,GovAgency
+Insolvency Practitioners Tribunal,GovAgency
+Insolvency Rules Committee,GovAgency
+Institute for Apprenticeships,GovAgency
+Intellectual Property Office,GovAgency
+Intelligence Services Commissioner,GovAgency
+Interception of Communications Commissioner,GovAgency
+Investigatory Powers Tribunal,GovAgency
+Joint Nature Conservation Committee,GovAgency
+Judicial Appointments and Conduct Ombudsman,GovAgency
+Judicial Appointments Commission,GovAgency
+Judicial Office,GovAgency
+Lake District National Park Authority,GovAgency
+Land Registration Rule Committee,GovAgency
+Law Commission,GovAgency
+Leasehold Advisory Service,GovAgency
+Legal Aid Agency,GovAgency
+Legal Services Board,GovAgency
+Local Government Ombudsman,GovAgency
+London and Continental Railways Ltd,GovAgency
+Low Pay Commission,GovAgency
+Marine Accident Investigation Branch,GovAgency
+Marine Management Organisation,GovAgency
+Maritime and Coastguard Agency,GovAgency
+Marshall Aid Commemoration Commission,GovAgency
+Medical Research Council,GovAgency
+Medicines and Healthcare products Regulatory Agency,GovAgency
+Met Office,GovAgency
+Migration Advisory Committee,GovAgency
+Morecambe Bay Investigation,GovAgency
+National Army Museum,GovAgency
+National College for Teaching and Leadership,GovAgency
+National Counter Terrorism Security Office,GovAgency
+National Crime Agency,GovAgency
+National Crime Agency Remuneration Review Body,GovAgency
+National Data Guardian,GovAgency
+National Employer Advisory Board,GovAgency
+National Employment Savings Trust (NEST) Corporation,GovAgency
+National Forest Company,GovAgency
+National Gallery,GovAgency
+National Heritage Memorial Fund,GovAgency
+National Information Board,GovAgency
+National Infrastructure Commission,GovAgency
+National Institute for Health and Care Excellence,GovAgency
+National Museum of the Royal Navy,GovAgency
+National Museums Liverpool,GovAgency
+National Portrait Gallery,GovAgency
+Natural England,GovAgency
+Natural Environment Research Council,GovAgency
+Natural History Museum,GovAgency
+New Forest National Park Authority,GovAgency
+NHS Blood and Transplant,GovAgency
+NHS Business Services Authority,GovAgency
+NHS Digital,GovAgency
+NHS England,GovAgency
+NHS Improvement,GovAgency
+NHS Litigation Authority,GovAgency
+NHS Pay Review Body,GovAgency
+North York Moors National Park Authority,GovAgency
+Northern Ireland Human Rights Commission,GovAgency
+Northern Lighthouse Board,GovAgency
+Northumberland National Park Authority,GovAgency
+NS&I,GovAgency
+NS&I,GovAgency
+Nuclear Decommissioning Authority,GovAgency
+Nuclear Liabilities Financing Assurance Board,GovAgency
+Nuclear Research Advisory Council,GovAgency
+Ofcom,GovAgency
+Office for Budget Responsibility,GovAgency
+Office for Fair Access,GovAgency
+Office for National Statistics,GovAgency
+Office for Nuclear Regulation,GovAgency
+Office of Manpower Economics,GovAgency
+Office of Rail and Road,GovAgency
+Office of Surveillance Commissioners,GovAgency
+Office of the Children's Commissioner,GovAgency
+Office of the Immigration Services Commissioner,GovAgency
+Office of the Public Guardian,GovAgency
+Office of the Registrar of Consultant Lobbyists,GovAgency
+Office of the Regulator of Community Interest Companies,GovAgency
+Office of the Schools Adjudicator,GovAgency
+Official Solicitor and Public Trustee,GovAgency
+Ofgem,GovAgency
+Ofqual,GovAgency
+Ofsted,GovAgency
+Oil and Gas Authority,GovAgency
+Ordnance Survey,GovAgency
+Parades Commission for Northern Ireland,GovAgency
+Parole Board,GovAgency
+Payment Systems Regulator,GovAgency
+Peak District National Park Authority,GovAgency
+Pension Protection Fund,GovAgency
+Pension Protection Fund Ombudsman,GovAgency
+Pensions Ombudsman,GovAgency
+Planning Inspectorate,GovAgency
+Plant Varieties and Seeds Tribunal,GovAgency
+Police Advisory Board for England and Wales,GovAgency
+Police Discipline Appeals Tribunal,GovAgency
+Police Remuneration Review Body,GovAgency
+Porton Biopharma Limited,GovAgency
+Prison Service Pay Review Body,GovAgency
+Prisons and Probation Ombudsman,GovAgency
+Privy Council Office,GovAgency
+Public Health England,GovAgency
+Queen Elizabeth II Conference Centre,GovAgency
+Rail Accident Investigation Branch,GovAgency
+Regulatory Policy Committee,GovAgency
+Reserve Forces' and Cadets' Associations,GovAgency
+Review Body on Doctors' and Dentists' Remuneration,GovAgency
+Royal Air Force Museum,GovAgency
+Royal Armouries Museum,GovAgency
+Royal Marines Museum,GovAgency
+Royal Mint,GovAgency
+Royal Mint Advisory Committee,GovAgency
+Royal Museums Greenwich,GovAgency
+Royal Navy Submarine Museum,GovAgency
+Royal Parks,GovAgency
+Rural Payments Agency,GovAgency
+S4C,GovAgency
+School Teachers' Review Body,GovAgency
+Science Advisory Council,GovAgency
+Science and Technology Facilities Council,GovAgency
+Science Museum Group,GovAgency
+Scientific Advisory Committee on the Medical Implications of Less-Lethal Weapons,GovAgency
+Sea Fish Industry Authority,GovAgency
+Secret Intelligence Service,GovAgency
+Security Industry Authority,GovAgency
+Security Vetting Appeals Panel,GovAgency
+Senior Salaries Review Body,GovAgency
+Sentencing Council for England and Wales,GovAgency
+Serious Fraud Office,GovAgency
+Serious Fraud Office,GovAgency
+Service Complaints Ombudsman,GovAgency
+Service Prosecuting Authority,GovAgency
+Single Source Regulations Office,GovAgency
+Sir John Soane's Museum,GovAgency
+Social Mobility Commission,GovAgency
+Social Mobility Commission,GovAgency
+Social Mobility Commission,GovAgency
+Social Science Research Committee,GovAgency
+Social Security Advisory Committee,GovAgency
+South Downs National Park Authority,GovAgency
+Sport England,GovAgency
+Sports Grounds Safety Authority,GovAgency
+Standards and Testing Agency,GovAgency
+Student Loans Company,GovAgency
+Supreme Court of the United Kingdom,GovAgency
+Surveillance Camera Commissioner,GovAgency
+Tate,GovAgency
+Technical Advisory Board,GovAgency
+The Adjudicator?s Office,GovAgency
+The Advisory Council on National Records and Archives,GovAgency
+The Charity Commission,GovAgency
+The Crown Estate,GovAgency
+The Insolvency Service,GovAgency
+The Legal Ombudsman,GovAgency
+The National Archives,GovAgency
+The National Archives,GovAgency
+The Oil and Pipelines Agency,GovAgency
+The Pensions Advisory Service,GovAgency
+The Pensions Regulator,GovAgency
+The Reviewing Committee on the Export of Works of Art and Objects of Cultural Interest,GovAgency
+The Security Service,GovAgency
+The Theatres Trust,GovAgency
+The Water Services Regulation Authority,GovAgency
+The Water Services Regulation Authority,GovAgency
+Traffic Commissioners for Great Britain,GovAgency
+Transport Focus,GovAgency
+Treasure Valuation Committee,GovAgency
+Tribunal Procedure Committee,GovAgency
+Trinity House,GovAgency
+UK Anti-Doping,GovAgency
+UK Atomic Energy Authority,GovAgency
+UK Co-ordinating Body,GovAgency
+UK Debt Management Office,GovAgency
+UK Financial Investments Limited,GovAgency
+UK Government Investments,GovAgency
+UK Hydrographic Office,GovAgency
+UK Research and Innovation,GovAgency
+UK Space Agency,GovAgency
+UK Sport,GovAgency
+UK Statistics Authority,GovAgency
+United Kingdom Reserve Forces Association,GovAgency
+Valuation Office,GovAgency
+Valuation Tribunal for England,GovAgency
+Valuation Tribunal Service,GovAgency
+Vehicle Certification Agency,GovAgency
+Veterans Advisory and Pensions Committees,GovAgency
+Veterinary Medicines Directorate,GovAgency
+Veterinary Products Committee,GovAgency
+Victims' Commissioner,GovAgency
+Victoria and Albert Museum,GovAgency
+VisitBritain,GovAgency
+VisitEngland,GovAgency
+Wallace Collection,GovAgency
+Westminster Foundation for Democracy,GovAgency
+Wilton Park,GovAgency
+Yorkshire Dales National Park Authority,GovAgency
+Youth Justice Board for England and Wales,GovAgency
+EPSRC,GovAgency
+NERC,GovAgency
+BBSRC,GovAgency
+ESRC,GovAgency
+AHRC,GovAgency
+STFC,GovAgency
+MRC,GovAgency
+Arts and Humanities Research Council,RC
+Economic and Social Research Council,RC
+Engineering and Physical Sciences Research Council,RC
+Natural Environment Research Council,RC
+Medical Research Council,RC
+Biotechnology and Biological Sciences Research Council,RC
+Science and Technology Facilities Council,RC
+Arts & Humanities Research Council,RC
+Economic & Social Research Council,RC
+Engineering & Physical Sciences Research Council,RC
+Biotechnology & Biological Sciences Research Council,RC
+Science & Technology Facilities Council,RC
+EPSRC,RC
+NERC,RC
+BBSRC,RC
+ESRC,RC
+AHRC,RC
+STFC,RC
+MRC,RC
+NIHR,Manual
+National Institute for health research,Manual
+Commonwealth Scholarship,Manual
+dorothy hodgkin postgraduate award,Manual
+research council UK,Manual
+national health service,Manual
+department health,Manual
+technology strategy board,Manual
+national heart lung institute,Manual
+RCUK,Manual
+Scottish government,Manual
+welsh government,Manual
+overseas research scholarship,Manual
+orsas,Manual
+chief scientist office,Manual
+scottish funding council,Manual
+uk-india education research initiative,Manual
+advantage west midlands,Manual
+national physical laboratory,Manual
+culham centre fusion energy,Manual
+universities uk,Manual
+british geological survey,Manual
