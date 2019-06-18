@@ -2,8 +2,6 @@
 #Author: Nick Matthews
 #Data: 31/07/18
 
-#Set working directors
-#setwd("/Users/Nick/Documents/PhD/Courses/RP2")
 #Load libraries
 library(ggplot2)
 library(RColorBrewer)
@@ -20,7 +18,7 @@ source("Scripts/PublicationPlots.R")
 
 
 #####Load in data####
-load("PlotsSponsorinfoDFWithAnnotations.RData")
+load("Data/SponsorinfoDFWithAnnotations.RData")
 
 #####Summary of totals#####
 #With extrapolation
